@@ -7,7 +7,7 @@
 #include "ll/api/event/player/PlayerDestroyBlockEvent.h"
 
 #include "mc/world/actor/player/Player.h"
-#include "mc/world/item/registry/ItemStack.h"
+#include "mc/world/item/ItemStack.h"
 
 namespace wooden_axe {
 
