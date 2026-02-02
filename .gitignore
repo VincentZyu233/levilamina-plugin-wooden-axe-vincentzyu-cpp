@@ -1,0 +1,16 @@
+# Build outputs
+build/
+bin/
+.xmake/
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# Output
+output/
+*.dll
+*.pdb
+*.lib
+*.exp

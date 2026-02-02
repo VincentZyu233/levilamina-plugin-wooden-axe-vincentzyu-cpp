@@ -1,0 +1,8 @@
+{
+    "name": "wooden-axe",
+    "entry": "wooden-axe.dll",
+    "version": "0.1.0",
+    "type": "native",
+    "description": "A simple schematic loader plugin for LeviLamina",
+    "author": "VincentZyu"
+}
